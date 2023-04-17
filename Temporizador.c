@@ -4,6 +4,7 @@
 #include <locale.h>
 
 int main(){
+	
 	int segundos;
 	int h,m, s, resto;
 	
